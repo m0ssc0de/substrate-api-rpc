@@ -1,8 +1,8 @@
 package substrate
 
 import (
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/types"
+	"github.com/m0ssc0de/scale.go/source"
+	"github.com/m0ssc0de/scale.go/types"
 )
 
 func RegCustomTypes(sourceCode []byte) {

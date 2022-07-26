@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/huandu/xstrings v1.3.2 // indirect
-	github.com/itering/scale.go v1.1.51
+	github.com/m0ssc0de/scale.go v1.2.8
 	github.com/jpillora/backoff v1.0.0
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/pierrec/xxHash v0.1.5

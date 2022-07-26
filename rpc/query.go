@@ -2,10 +2,10 @@ package rpc
 
 import (
 	"fmt"
-	"github.com/itering/substrate-api-rpc/storage"
-	"github.com/itering/substrate-api-rpc/storageKey"
-	"github.com/itering/substrate-api-rpc/util"
-	"github.com/itering/substrate-api-rpc/websocket"
+	"github.com/m0ssc0de/substrate-api-rpc/storage"
+	"github.com/m0ssc0de/substrate-api-rpc/storageKey"
+	"github.com/m0ssc0de/substrate-api-rpc/util"
+	"github.com/m0ssc0de/substrate-api-rpc/websocket"
 	"math/rand"
 )
 

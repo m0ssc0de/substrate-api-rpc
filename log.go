@@ -3,9 +3,9 @@ package substrate
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/substrate-api-rpc/storage"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/m0ssc0de/scale.go/types"
+	"github.com/m0ssc0de/substrate-api-rpc/storage"
+	"github.com/m0ssc0de/substrate-api-rpc/util"
 )
 
 const (
